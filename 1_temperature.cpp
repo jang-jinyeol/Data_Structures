@@ -1,3 +1,13 @@
+/*
+
+setw() 칸 맞추는 함수, #include <iomanip>에 있다.
+assert() 오류 정보 표시 함수 거짓일때 동작한다.
+#include <cassert>에 있음.
+
+
+*/
+
+
 // File: temperature.cxx
 // This program prints a table to convert numbers from one unit to another.
 // The program illustrases some implementation techniques.
