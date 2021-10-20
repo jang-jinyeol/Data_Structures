@@ -21,6 +21,7 @@ public:
   // 후위 증가 연산
 	NUMBOX operator++(int)
 	{
+		// NUMBOX temp(num1, num2) 와 같은 표현
 		NUMBOX temp(*this);
 		num1 += 1;
 		num2 += 1;
